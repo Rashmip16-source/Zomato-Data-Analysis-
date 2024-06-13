@@ -1,6 +1,7 @@
 Zomato Data Analysis Using Python:
 
 The aim of this project is to analyze customer ordering behaviors from Zomato data, specifically focusing on the differences between dining restaurants and cafes. The hypothesis is that dining restaurants primarily accept offline orders, while cafes primarily receive online orders. The goal is to verify this hypothesis through data analysis and visualization.
+
 Steps Involved
 
 1.	Data Collection:
